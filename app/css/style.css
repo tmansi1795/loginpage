@@ -1,0 +1,45 @@
+header {
+    border-top:10px solid #00a4e4;
+    width: 100%;
+    top:0;
+    left:0;
+    z-index:500;
+    border-bottom: 1px solid #d1d0ce;
+    display: inline-block;
+}
+
+img{
+    height:100%;
+    width:auto;
+}
+.container {
+    /* position: relative; */
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+#siteFooter{
+    padding: 50px 0;
+    font-size: 12px;
+    color: #fff;
+    background: #54565b;
+    line-height: 1.6em;
+    height: auto!important;
+    overflow: hidden;
+    
+}
+#outsite-footer{
+    display: inline-block;
+    width:100%;
+}
+.image{
+display:inline-block;
+}
+
+li{
+    list-style: none;
+}
